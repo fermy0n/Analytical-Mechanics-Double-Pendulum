@@ -3,8 +3,6 @@
 Simulación numérica de un péndulo doble en python con RK4: análisis de conservación de energía, modos normales (caso simétrico), exponentes de Lyapunov, trayectorias y secciones de Poincaré.
 ---
 
-## Contenido del Análisis
-
 El script está dividido en cinco bloques principales de validación física y dinámica no lineal:
 
 1. **Conservación de la Energía y Precisión Numérica:**
