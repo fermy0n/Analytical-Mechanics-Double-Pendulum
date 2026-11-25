@@ -17,7 +17,7 @@ El script está dividido en cinco bloques principales de validación física y d
    - Genera una animación comparativa (`animacion_pendulo_doble.gif`) entre un régimen regular ($\theta_0 = 0.3\text{ rad}$) y uno caótico ($\theta_0 = 2.5\text{ rad}$).
    - Traza las trayectorias completas de la segunda masa ($m_2$) codificadas por tiempo.
 5. **Secciones de Poincaré:**
-   - Construye mapas de Poincaré en el espacio de fases reducido $(\theta_2, p_2)$ usando la condición de cruce $\theta_1 = 0$ con $\dot{\theta}_1 > 0$ para múltiples condiciones iniciales a energía constante, evidenciando la ruptura de los toros KAM y el surgimiento del mar caótico.
+   - Construye mapas de Poincaré en el espacio de fases reducido $(\theta_2, p_2)$ usando la condición de cruce $\theta_1 = 0$ con $\dot{\theta}_1 > 0$ para múltiples condiciones iniciales a energía constante y el surgimiento del caos.
 ---
 ## Requisitos e Instalación
 
