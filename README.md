@@ -21,7 +21,7 @@ El script está dividido en cinco bloques principales de validación física y d
 ---
 ## Requisitos e Instalación
 
-El código requiere **Python 3.8+** y las siguientes librerías científicas:
+El código requiere **Python 3.8+** y la siguiente librería científica:
 
 ```bash
 pip install numpy matplotlib pillow
